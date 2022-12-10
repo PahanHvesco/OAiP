@@ -1,0 +1,7 @@
+﻿  Main.c
+D:\Программирование\C\4.2\4.2\Header.h(22,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Программирование\C\4.2\4.2\Header.h(30): warning C4716: randMatrix: должна возвращать значение
+D:\Программирование\C\4.2\4.2\Header.h(49): warning C4716: fillMatrix: должна возвращать значение
+D:\Программирование\C\4.2\4.2\Header.h(60): warning C4716: MultiplyingMatrixByNumber: должна возвращать значение
+D:\Программирование\C\4.2\4.2\Header.h(18): warning C4716: printMatrix: должна возвращать значение
+  4.2.vcxproj -> D:\Программирование\C\4.2\x64\Debug\4.2.exe
